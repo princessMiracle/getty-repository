@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.otmm.16</groupId>
   <artifactId>ot-transfer-scheme</artifactId>
-  <version>16.4p/version>
+  <version>16.4p</version>
   <description>POM was created from install:install-file</description>
 </project>
