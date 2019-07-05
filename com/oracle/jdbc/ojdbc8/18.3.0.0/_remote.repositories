@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jun 12 17:49:05 PDT 2019
+ojdbc8-18.3.0.0.jar>=
+ojdbc8-18.3.0.0.jar>maven.oracle.com=
+ojdbc8-18.3.0.0.pom>maven.oracle.com=
